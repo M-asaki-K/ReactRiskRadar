@@ -1,0 +1,949 @@
+[
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "FERRIC SULFATE",
+        "result": "Compatible",
+        "generated_reason": "The combination of activated carbon and ferric sulfate is compatible due to the lack of known chemical reactions or hazardous interactions between the two substances. Activated carbon is widely used for adsorption and purification processes, and ferric sulfate is commonly used in water treatment and metal precipitation. The lack of documented reactivity or incompatibility between these substances suggests that they can be safely used together without hazardous consequences.",
+        "predicted_results": [
+            20,
+            10,
+            10
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "FERRIC NITRATE",
+        "result": "Incompatible",
+        "generated_reason": "The reaction between aluminum alkyl hydrides and ferric nitrate can lead to the formation of highly reactive intermediates and potentially explosive products due to the transfer of aluminum alkyl groups to the nitrate ion in ferric nitrate, leading to an exothermic reaction. This can result in the release of toxic gases and pose a serious safety hazard.",
+        "predicted_results": [
+            90,
+            85,
+            90
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "The activated carbon has a large surface area and high porosity, allowing it to adsorb methane molecules efficiently. This physical interaction between the activated carbon and methane reduces the chance of reactivity and makes the mixture compatible for storage or transport.",
+        "predicted_results": [
+            "15",
+            "10",
+            20
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "WATER",
+        "result": "Compatible",
+        "generated_reason": "The presence of compressed air can introduce oxygen and other gases into water, potentially leading to oxidation of organic matter, creation of hazardous by-products, and increased risk of corrosion in the water system. Additionally, the dissolution of compressed air in water can affect its pH, leading to potential environmental and biological impacts.",
+        "predicted_results": [
+            70,
+            60,
+            70
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "WATER",
+        "result": "Incompatible",
+        "generated_reason": "The reaction between aluminum alkyl hydrides and water results in the generation of flammable hydrogen gas and can lead to explosive reactions under certain conditions. This makes the combination of these substances incompatible and potentially hazardous.",
+        "predicted_results": [
+            90,
+            90,
+            90
+        ]
+    },
+    {
+        "substance1": "FERRIC SULFATE",
+        "substance2": "IRON OXIDE, SPENT",
+        "result": "Incompatible",
+        "generated_reason": "The combination of ferric sulfate and spent iron oxide can lead to an exothermic reaction, potentially resulting in the release of toxic sulfur dioxide gas. This is due to the presence of residual reducing agents in spent iron oxide, which can react with ferric sulfate. The reaction can also lead to the formation of hazardous by-products, posing a risk to safety and the environment.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "FERRIC NITRATE",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "Mixing ferric nitrate with powdered iron can lead to a highly exothermic reaction due to the reduction of the ferric ion in ferric nitrate to ferrous ion by the iron, generating heat and potentially leading to ignition and fire. The reaction can be particularly dangerous in the presence of moisture, as it can lead to the release of toxic nitrogen oxides.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Caution",
+        "generated_reason": "Ethanol and propionaldehyde can undergo an aldol condensation reaction in the presence of a base, leading to the formation of a mixture of unsaturated alcohols. This reaction may be problematic in certain applications where the presence of unsaturated compounds could interfere with desired chemical processes.",
+        "predicted_results": [
+            75,
+            70,
+            60
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "FERRIC CHLORIDE",
+        "result": "Compatible",
+        "generated_reason": "The combination of activated carbon and ferric chloride can lead to a highly exothermic reaction due to the presence of surface functional groups on activated carbon that can react with ferric chloride, potentially causing temperature increase and release of toxic fumes.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "IRON OXIDE, SPENT",
+        "substance2": "WATER",
+        "result": "Incompatible",
+        "generated_reason": "The reaction between iron oxide and water can produce heat and may lead to the release of hydrogen gas. This can result in a potential fire hazard or explosion, making the combination of these substances incompatible.",
+        "predicted_results": [
+            75,
+            75,
+            85
+        ]
+    },
+    {
+        "substance1": "PROPIONALDEHYDE",
+        "substance2": "SULFUROUS ACID",
+        "result": "Incompatible",
+        "generated_reason": "The combination of propionaldehyde and sulfurous acid can lead to the formation of potentially hazardous compounds such as bisulfite adducts and sulfur dioxide due to their chemical reactivity. This reaction can result in the release of toxic fumes and should be avoided to prevent harmful consequences.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "ETHANOL",
+        "result": "Incompatible",
+        "generated_reason": "The combination of aluminum alkyl hydrides and ethanol can lead to a violent exothermic reaction, resulting in the production of flammable and potentially explosive hydrogen gas. This is due to the highly reactive nature of aluminum alkyl hydrides, which can react rapidly and exothermically with compounds containing hydroxyl groups, such as ethanol. Therefore, this mixture is incompatible and can pose significant safety risks.",
+        "predicted_results": [
+            90,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "The combination of activated carbon and powdered iron can lead to a highly exothermic reaction due to the oxidation of carbon and the reduction of iron. This reaction can result in a significant release of heat and potentially lead to a fire hazard. Additionally, the fine particles of powdered iron can increase the surface area available for reaction, further enhancing the reactivity of the mixture. Therefore, the combination of activated carbon and powdered iron is deemed incompatible due to the potential fire hazard and increased reactivity.",
+        "predicted_results": [
+            90,
+            90,
+            90
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "IRON OXIDE, SPENT",
+        "result": "Incompatible",
+        "generated_reason": "The combination of aluminum alkyl hydrides with iron oxide, spent can lead to a potential exothermic reaction due to the presence of alkyl groups which can react violently with iron oxide. This can result in the release of flammable gases and heat, posing a significant risk of fire or explosion. Therefore, the mixture of these substances is deemed incompatible and should be handled with caution to prevent any hazardous reactions.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "METHANE",
+        "substance2": "SULFUROUS ACID",
+        "result": "Compatible",
+        "generated_reason": "The combination of methane and sulfurous acid does not result in any significant chemical reaction or hazardous compounds, as the two substances do not exhibit reactive properties when mixed.",
+        "predicted_results": [
+            "10",
+            10,
+            10
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "HYDROGEN",
+        "result": "Caution",
+        "generated_reason": "The combination of ethanol and hydrogen can lead to the formation of an explosive mixture. Ethanol can react with hydrogen in the presence of a catalyst to form ethyl hydride, a highly flammable compound. This reaction can be exothermic and lead to a hazardous situation if not properly controlled.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "FERRIC NITRATE",
+        "substance2": "WATER",
+        "result": "Compatible"
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "SULFUROUS ACID",
+        "result": "Compatible",
+        "generated_reason": "The activated carbon has a high surface area and porosity, allowing it to effectively adsorb and neutralize the sulfurous acid, leading to a compatible interaction between the two substances.",
+        "predicted_results": [
+            20,
+            20,
+            20
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "ETHANOL",
+        "result": "Caution",
+        "generated_reason": "The combination of compressed air and ethanol may lead to increased flammability and fire hazard due to the potential for rapid evaporation of ethanol in the presence of compressed air. This can create a volatile atmosphere with the potential for ignition, posing a significant fire risk.",
+        "predicted_results": [
+            80,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "IRON OXIDE, SPENT",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "The combination of spent iron oxide and powdered iron can lead to a potentially exothermic reaction due to the high surface area of the powdered iron and the presence of unreacted material in the spent iron oxide.",
+        "predicted_results": [
+            75,
+            85,
+            75
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "HYDROGEN",
+        "result": "Caution",
+        "generated_reason": "The combination of compressed air and hydrogen can create a highly combustible mixture, as the presence of oxygen in compressed air can enhance the reactivity of hydrogen, leading to flammability and potential explosion hazards.",
+        "predicted_results": [
+            90,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "Mixing ferric chloride with propionaldehyde can lead to a violent chemical reaction, as propionaldehyde may undergo oxidation in the presence of ferric chloride, leading to the release of heat and potentially flammable products. The exothermic nature of the reaction can further increase the reactivity and risk of fire or explosion.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "HYDROGEN",
+        "substance2": "WATER",
+        "result": "Compatible",
+        "generated_reason": "The combination of hydrogen and water can lead to the formation of hydrogen peroxide and subsequent generation of heat. This reaction can be highly exothermic and may pose a risk of explosion under certain conditions.",
+        "predicted_results": [
+            75,
+            65,
+            75
+        ]
+    },
+    {
+        "substance1": "FERRIC SULFATE",
+        "substance2": "SULFUROUS ACID",
+        "result": "Caution",
+        "generated_reason": "The reaction between ferric sulfate and sulfurous acid can lead to the formation of sulfur dioxide gas, which is a respiratory irritant and can cause breathing difficulties. This reaction should be approached with caution, especially in enclosed or poorly-ventilated spaces.",
+        "predicted_results": [
+            85,
+            75,
+            75
+        ]
+    },
+    {
+        "substance1": "FERRIC SULFATE",
+        "substance2": "HYDROGEN",
+        "result": "Compatible"
+    },
+    {
+        "substance1": "IRON, [POWDERED]",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "The combination of powdered iron and methane can lead to a highly exothermic reaction due to the catalytic effect of iron on the decomposition of methane. This reaction can result in the formation of iron carbide and can lead to a hazardous situation. Additionally, the high surface area of powdered iron may enhance the reactivity with methane, increasing the potential for uncontrolled combustion.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "The combination of ethanol and powdered iron can lead to a potentially hazardous exothermic reaction. When ethanol comes into contact with powdered iron, it can undergo oxidation, potentially leading to a combustion reaction. The high surface area of the powdered iron can accelerate this reaction, increasing the risk of fire or explosion. Therefore, the mixture of ethanol and powdered iron is considered incompatible due to the potential for hazardous reactivity.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "The combination of compressed air and propionaldehyde can lead to potential incompatibility due to the risk of autoxidation of propionaldehyde in the presence of oxygen, which can result in increased flammability and risk of fire or explosion.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "FERRIC NITRATE",
+        "result": "Incompatible",
+        "generated_reason": "The combination of ferric chloride and ferric nitrate is incompatible due to the potential formation of insoluble precipitates of ferric hydroxide when mixed together. This can lead to clogging of equipment or reaction vessels and can hinder or alter the desired chemical processes. Additionally, the mixture may exhibit exothermic reactions or generate heat, leading to potential thermal hazards when not handled properly.",
+        "predicted_results": [
+            85,
+            85,
+            75
+        ]
+    },
+    {
+        "substance1": "HYDROGEN",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "The combination of hydrogen and propionaldehyde can lead to an exothermic reaction, potentially resulting in fire or explosion. This is due to the presence of hydrogen, which is highly flammable, and the potential for a catalytic reaction with propionaldehyde, leading to an increase in temperature and pressure.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "FERRIC SULFATE",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "The combination of ferric sulfate and methane does not lead to any significant chemical reaction or hazardous compound formation, as methane is a relatively inert compound and does not readily react with ferric sulfate under normal conditions. Therefore, the mixture is predicted to be compatible based on the lack of significant reactivity between the two substances.",
+        "predicted_results": [
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "substance1": "METHANE",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Caution"
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "CARBON, ACTIVATED",
+        "result": "Incompatible",
+        "generated_reason": "The combination of aluminum alkyl hydrides and activated carbon may lead to a highly exothermic reaction due to the presence of unpaired electrons on the surface of activated carbon, which can react with the alkyl groups on the aluminum alkyl hydrides to form highly reactive radicals, leading to a potential fire hazard.",
+        "predicted_results": [
+            90,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "WATER",
+        "result": "Compatible",
+        "generated_reason": "The molecular structure of ethanol allows it to form hydrogen bonds with water molecules, leading to a homogeneous mixture. The similar polarities of ethanol and water further enhance their compatibility, making them miscible in all proportions. Additionally, the presence of hydroxyl groups in both ethanol and water enables them to interact through hydrogen bonding, resulting in a stable and non-reactive mixture.",
+        "predicted_results": [
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "substance1": "HYDROGEN",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "The combination of hydrogen and methane can lead to a potential explosion due to the high reactivity of hydrogen with methane in the presence of an ignition source, posing a safety hazard.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "FERRIC SULFATE",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "The combination of ferric sulfate and propionaldehyde can lead to the formation of potentially hazardous compounds and exothermic reactions due to the presence of reducing and oxidizing agents, increasing the risk of fire or explosion.",
+        "predicted_results": [
+            85,
+            80,
+            80
+        ]
+    },
+    {
+        "substance1": "FERRIC NITRATE",
+        "substance2": "SULFUROUS ACID",
+        "result": "Incompatible",
+        "generated_reason": "The mixture of ferric nitrate and sulfurous acid leads to a violent reaction, releasing toxic gases and potentially causing an explosion. This can be attributed to the rapid oxidation of sulfurous acid by the ferric nitrate, resulting in the release of heat and the formation of hazardous compounds such as nitrogen dioxide and sulfur dioxide.",
+        "predicted_results": [
+            90,
+            90,
+            85
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "The reaction between aluminum alkyl hydrides and propionaldehyde can lead to the formation of explosive by-products due to their chemical interaction, posing a significant hazard.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "METHANE",
+        "substance2": "WATER",
+        "result": "Compatible",
+        "generated_reason": "Methane and water are compatible due to their molecular structure and weak intermolecular forces. Methane is nonpolar, and water is polar, so they do not undergo a significant chemical reaction when mixed. The nonpolar-polar interaction between methane and water results in a relatively low potential for reactivity or incompatibility.",
+        "predicted_results": [
+            10,
+            15,
+            10
+        ]
+    },
+    {
+        "substance1": "IRON OXIDE, SPENT",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "The combination of iron oxide, spent and methane may lead to a potentially explosive mixture due to the presence of iron in the spent iron oxide, which can act as a catalyst for the reaction between methane and oxygen, leading to a highly exothermic reaction. This can pose a significant risk of fire or explosion when these substances are mixed.",
+        "predicted_results": [
+            75,
+            85,
+            80
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "ALUMINUM ALKYL HYDRIDES",
+        "result": "Incompatible",
+        "generated_reason": "Compressed air can react with aluminum alkyl hydrides, leading to the generation of gaseous hydrogen and potential combustion. The reactivity arises from the presence of aluminum alkyl hydrides, which can readily donate hydride ions to react with the oxygen in the compressed air, producing hydrogen gas and releasing energy. This reaction poses a significant risk of fire or explosion and should be avoided to ensure safety.",
+        "predicted_results": [
+            90,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "FERRIC SULFATE",
+        "result": "Caution",
+        "generated_reason": "The combination of ferric chloride and ferric sulfate may lead to the formation of a highly corrosive solution due to the potential chemical reaction between the two substances. This can result in the release of heat and hazardous fumes, posing a risk of burns or respiratory issues when handled improperly. Quantitative analysis of the molar ratios and reaction kinetics should be conducted to predict the extent of this reactivity and ensure safe handling and storage.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "IRON OXIDE, SPENT",
+        "result": "Compatible",
+        "generated_reason": "The combination of activated carbon and spent iron oxide is compatible as they do not undergo any significant chemical reactions or create hazardous compounds when in contact. The reactivity of activated carbon with spent iron oxide is low, and there is no evidence of heat generation or gas release, indicating compatibility between the two substances.",
+        "predicted_results": [
+            15,
+            12,
+            15
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "IRON OXIDE, SPENT",
+        "result": "Incompatible"
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "The combination of ferric chloride and iron powder may result in an exothermic reaction, leading to the generation of heat and potentially causing a fire hazard. Additionally, the two substances may form iron(III) chloride and hydrogen gas through a chemical reaction, which can further contribute to the incompatibility and potential reactivity of the mixture.",
+        "predicted_results": [
+            85,
+            80,
+            85
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible"
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "SULFUROUS ACID",
+        "result": "Caution",
+        "generated_reason": "The combination of compressed air and sulfurous acid can lead to the formation of sulfur dioxide and other potentially hazardous compounds due to the chemical reaction between the compressed air's oxygen and sulfurous acid.",
+        "predicted_results": [
+            75,
+            70,
+            75
+        ]
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "SULFUROUS ACID",
+        "result": "Compatible",
+        "generated_reason": "The combination of ferric chloride and sulfurous acid can lead to the formation of toxic hydrogen chloride gas and sulfur dioxide due to the chemical reaction between the two substances. This can pose significant health risks and environmental hazards, indicating incompatibility.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "The combination of compressed air and methane does not lead to any significant chemical reaction or hazardous outcome due to their inert nature and lack of reactive groups, making them compatible.",
+        "predicted_results": [
+            15,
+            10,
+            "10"
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "FERRIC CHLORIDE",
+        "result": "Caution"
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "SULFUROUS ACID",
+        "result": "Incompatible",
+        "generated_reason": "The combination of aluminum alkyl hydrides and sulfurous acid can release toxic gases such as hydrogen sulfide and potentially lead to an exothermic reaction, presenting a significant risk of fire and explosion.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "SULFUROUS ACID",
+        "substance2": "WATER",
+        "result": "Caution",
+        "generated_reason": "When sulfurous acid is mixed with water, it forms sulfurous acid solution. Sulfurous acid is a weak acid and can react with water to produce sulfite ions. This reaction may result in the release of sulfur dioxide gas, which is a respiratory irritant and can cause breathing difficulties. Hence, caution is advised when handling this mixture due to the potential for respiratory irritation and adverse health effects.",
+        "predicted_results": [
+            60,
+            75,
+            75
+        ]
+    },
+    {
+        "substance1": "HYDROGEN",
+        "substance2": "SULFUROUS ACID",
+        "result": "Compatible",
+        "generated_reason": "The combination of hydrogen and sulfurous acid can lead to a highly exothermic reaction, releasing sulfur dioxide and heat. This reaction can be hazardous and may lead to fire or explosion if not properly controlled.",
+        "predicted_results": [
+            85,
+            80,
+            85
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "The combination of ethanol and methane does not produce any known chemical reactions or hazardous compounds. Ethanol and methane have different chemical properties and do not exhibit significant reactivity when mixed together.",
+        "predicted_results": [
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "FERRIC CHLORIDE",
+        "result": "Caution",
+        "generated_reason": "Ethanol and ferric chloride can react exothermically and produce toxic fumes, leading to potential fire hazards and health risks. The reaction is quantitatively influenced by the presence of hydroxyl groups in ethanol and the oxidizing properties of ferric chloride, resulting in the generation of heat and hazardous by-products.",
+        "predicted_results": [
+            75,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "IRON, [POWDERED]",
+        "substance2": "WATER",
+        "result": "Incompatible",
+        "generated_reason": "The combination of powdered iron and water can lead to a highly exothermic reaction due to the conversion of iron to iron oxide and the release of hydrogen gas. The rapid generation of heat and flammable hydrogen gas can lead to fire and explosion hazards, making this combination incompatible.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "FERRIC SULFATE",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "The combination of ferric sulfate and powdered iron can lead to a highly exothermic reaction due to the reduction of ferric ions to ferrous ions, leading to the generation of heat and potentially causing a fire hazard. Additionally, the reaction can release toxic sulfur dioxide gas, presenting health risks. This combination should be avoided to prevent these hazardous outcomes.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "FERRIC NITRATE",
+        "substance2": "METHANE",
+        "result": "Caution",
+        "generated_reason": "When FERRIC NITRATE reacts with METHANE, it leads to the formation of nitric oxide and iron oxide. This reaction can release heat and cause potential fire hazards due to the flammability of METHANE and the oxidizing nature of FERRIC NITRATE. Therefore, caution is advised when handling this mixture.",
+        "predicted_results": [
+            75,
+            75,
+            75
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "FERRIC CHLORIDE",
+        "result": "Incompatible",
+        "generated_reason": "The reaction between aluminum alkyl hydrides and ferric chloride leads to the formation of toxic and flammable gases such as hydrogen gas and aluminum chloride. This reaction can be violent and hazardous, posing a risk of fire or explosion. Therefore, the mixture of these substances is incompatible and should be handled with caution to prevent unexpected reactions.",
+        "predicted_results": [
+            90,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "FERRIC NITRATE",
+        "result": "Caution",
+        "generated_reason": "The reaction between compressed air and ferric nitrate can lead to the formation of highly reactive nitrogen oxides, which can pose a significant safety hazard due to their potential to react explosively with organic materials. Additionally, the presence of oxygen in compressed air can enhance the oxidation reactions with ferric nitrate, leading to potentially hazardous consequences. It is important to handle this combination with caution to avoid unintended reactions and ensure safety in the laboratory or industrial settings.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "IRON, [POWDERED]",
+        "substance2": "SULFUROUS ACID",
+        "result": "Incompatible",
+        "generated_reason": "The combination of powdered iron and sulfurous acid can lead to a chemical reaction, resulting in the release of toxic sulfur dioxide gas and heat. This can pose a significant safety risk and make the mixture incompatible for certain applications.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "CARBON, ACTIVATED",
+        "result": "Caution",
+        "generated_reason": "The combination of compressed air and activated carbon may lead to the oxidation of the carbon, producing heat and potentially causing a fire hazard. Activated carbon has a large surface area and can adsorb various substances from compressed air, leading to potential reactivity or release of absorbed gases upon disturbance.",
+        "predicted_results": [
+            75,
+            70,
+            75
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "The combination of aluminum alkyl hydrides and methane can lead to spontaneous combustion due to the high reactivity of aluminum alkyl hydrides with the hydrogen atoms in methane. This can result in a highly exothermic and potentially explosive reaction.",
+        "predicted_results": [
+            90,
+            90,
+            90
+        ]
+    },
+    {
+        "substance1": "HYDROGEN",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "The reactivity between hydrogen and iron, especially in its powdered form, leads to the potential for a highly exothermic reaction. Under certain conditions, this can result in the rapid formation of iron hydride and the release of a significant amount of heat, potentially leading to fire or explosion hazards.",
+        "predicted_results": [
+            85,
+            85,
+            80
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "SULFUROUS ACID",
+        "result": "Caution",
+        "generated_reason": "Combining ethanol with sulfurous acid can lead to the formation of ethyl sulfite and release of heat, potentially causing an exothermic reaction. This reaction may pose a safety risk due to the potential for heat and gas release, requiring cautious handling to avoid unintended reactivity.",
+        "predicted_results": [
+            75,
+            75,
+            75
+        ]
+    },
+    {
+        "substance1": "FERRIC NITRATE",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "Mixing ferric nitrate with propionaldehyde can result in an exothermic reaction due to the oxidizing properties of ferric nitrate and the reducing properties of propionaldehyde. This can lead to the release of toxic gases and the potential for a fire hazard. Additionally, the reaction can produce by-products that are hazardous to human health and the environment.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "PROPIONALDEHYDE",
+        "substance2": "WATER",
+        "result": "Caution",
+        "generated_reason": "Propionaldehyde, when mixed with water, can form explosive peroxides under certain conditions due to the oxidation of the aldehyde functional group. This reaction can lead to a potentially hazardous situation and requires careful handling and storage.",
+        "predicted_results": [
+            75,
+            75,
+            75
+        ]
+    },
+    {
+        "substance1": "IRON OXIDE, SPENT",
+        "substance2": "SULFUROUS ACID",
+        "result": "Incompatible",
+        "generated_reason": "The combination of iron oxide, spent, and sulfurous acid can lead to the production of toxic sulfur dioxide gas and heat due to a chemical reaction between the sulfurous acid and iron oxide, which can result in an incompatible and potentially hazardous outcome.",
+        "predicted_results": [
+            90,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "IRON OXIDE, SPENT",
+        "result": "Caution",
+        "generated_reason": "Mixing ethanol with spent iron oxide may lead to a potential exothermic chemical reaction, as the iron oxide can act as an oxidizing agent. This could result in the generation of heat and possible ignition, particularly in the presence of finely divided iron oxide particles. Care should be taken to avoid this mixture in high-temperature or high-pressure environments.",
+        "predicted_results": [
+            85,
+            75,
+            80
+        ]
+    },
+    {
+        "substance1": "FERRIC SULFATE",
+        "substance2": "WATER",
+        "result": "Caution"
+    },
+    {
+        "substance1": "IRON OXIDE, SPENT",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "The reaction between iron oxide, spent, and propionaldehyde may lead to the generation of heat and potentially hazardous by-products due to chemical reactions between the substances.",
+        "predicted_results": [
+            75,
+            75,
+            75
+        ]
+    },
+    {
+        "substance1": "FERRIC NITRATE",
+        "substance2": "FERRIC SULFATE",
+        "result": "Incompatible",
+        "generated_reason": "The combination of ferric nitrate and ferric sulfate can lead to the formation of insoluble precipitates due to the reaction between the nitrate and sulfate ions. This can result in reduced solubility and potentially clogged equipment or unwanted byproducts, making the mixture incompatible for certain applications.",
+        "predicted_results": [
+            75,
+            65,
+            60
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "FERRIC SULFATE",
+        "result": "Compatible",
+        "generated_reason": "Mixing ethanol with ferric sulfate can lead to the formation of highly exothermic and potentially explosive reactions due to the oxidation of ethanol by ferric sulfate. This can result in fire or explosion hazards and is therefore considered incompatible.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "HYDROGEN",
+        "result": "Compatible",
+        "generated_reason": "Ferric chloride is stable and unreactive when in contact with hydrogen. There are no known chemical reactions or hazards associated with the mixture of these substances.",
+        "predicted_results": [
+            10,
+            "5",
+            10
+        ]
+    },
+    {
+        "substance1": "IRON, [POWDERED]",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "The reaction between iron powder and propionaldehyde can lead to the formation of highly reactive iron(III) oxide and potentially combustible gases, posing a significant fire hazard. The exothermic nature of this reaction can also lead to an increase in temperature, further exacerbating the hazardous conditions. Therefore, the mixture of iron powder and propionaldehyde is highly incompatible and should be handled with caution.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "FERRIC SULFATE",
+        "result": "Incompatible",
+        "generated_reason": "The combination of aluminum alkyl hydrides with ferric sulfate can lead to a highly exothermic reaction, releasing toxic fumes of sulfur dioxide and causing potential fire hazards. This is due to the strong reducing properties of aluminum alkyl hydrides and the oxidizing nature of ferric sulfate, creating a significant risk of spontaneous combustion and heat generation.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "IRON OXIDE, SPENT",
+        "result": "Incompatible"
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "The combination of FERRIC CHLORIDE and METHANE can lead to the formation of hazardous compounds such as chloromethane due to the chemical reaction between the chloride ions in FERRIC CHLORIDE and the hydrogen atoms in METHANE. This can pose a risk of fire or explosion in certain conditions.",
+        "predicted_results": [
+            75,
+            70,
+            75
+        ]
+    },
+    {
+        "substance1": "HYDROGEN",
+        "substance2": "IRON OXIDE, SPENT",
+        "result": "Compatible",
+        "generated_reason": "The reaction of hydrogen with spent iron oxide can lead to an exothermic reaction, resulting in a fire or explosion. The high reactivity of hydrogen combined with the presence of reducing agents in spent iron oxide can lead to an unsafe and incompatible mixture.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "FERRIC NITRATE",
+        "result": "Compatible",
+        "generated_reason": "The combination of activated carbon and ferric nitrate can lead to potentially hazardous exothermic reactions due to the high surface area and porous nature of activated carbon, which can catalyze the decomposition of ferric nitrate. This can result in the release of toxic nitrogen dioxide gas and heat, posing a risk of fire and explosion.",
+        "predicted_results": [
+            85,
+            85,
+            90
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "The combination of aluminum alkyl hydrides and powdered iron can lead to a highly exothermic reaction due to the high reactivity of aluminum alkyl hydrides with metals. This can result in the release of flammable or explosive gases and poses serious fire and explosion hazards. Therefore, the mixture is deemed incompatible.",
+        "predicted_results": [
+            85,
+            90,
+            85
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "HYDROGEN",
+        "result": "Compatible",
+        "generated_reason": "Activated carbon has a high surface area and can adsorb hydrogen gas, making it compatible with hydrogen without causing any significant reactivity.",
+        "predicted_results": [
+            20,
+            10,
+            15
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "FERRIC NITRATE",
+        "result": "Incompatible",
+        "generated_reason": "Mixing ethanol with ferric nitrate can lead to the formation of an unstable and potentially explosive complex due to the reduction of ferric nitrate to other lower oxidation states by the reducing agent ethanol, which may result in a highly exothermic reaction. This reaction can pose a significant risk of fire or explosion if not properly controlled.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "HYDROGEN",
+        "result": "Incompatible",
+        "generated_reason": "The combination of aluminum alkyl hydrides and hydrogen can lead to spontaneous combustion due to the highly exothermic reaction between the aluminum alkyl hydrides and hydrogen gas, resulting in the release of a significant amount of heat and the potential for an explosive reaction.",
+        "predicted_results": [
+            95,
+            95,
+            90
+        ]
+    },
+    {
+        "substance1": "FERRIC NITRATE",
+        "substance2": "IRON OXIDE, SPENT",
+        "result": "Incompatible",
+        "generated_reason": "The combination of ferric nitrate with spent iron oxide can lead to a potentially hazardous exothermic reaction, as the nitrate ion can act as an oxidizing agent and react with the iron in the iron oxide. This reaction may release heat and gases, leading to an increase in pressure and potential fire hazards. Therefore, the mixture is deemed incompatible and should be handled with caution to prevent any unintended reactions.",
+        "predicted_results": [
+            80,
+            85,
+            80
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "FERRIC SULFATE",
+        "result": "Compatible",
+        "generated_reason": "When compressed air comes into contact with ferric sulfate, it can lead to the formation of a complex mixture of nitrogen oxides and sulfuric acid aerosols due to the catalytic oxidation of nitrogen and sulfur compounds present in the air, which can lead to air pollution and cause equipment corrosion.",
+        "predicted_results": [
+            70,
+            75,
+            85
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible"
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "WATER",
+        "result": "Caution",
+        "generated_reason": "Mixing ferric chloride with water can result in the release of heat and hydrogen chloride gas due to the exothermic reaction. This reaction can lead to the generation of fumes and should be carried out with proper ventilation and safety precautions to avoid potential inhalation hazards.",
+        "predicted_results": [
+            75,
+            75,
+            75
+        ]
+    },
+    {
+        "substance1": "FERRIC NITRATE",
+        "substance2": "HYDROGEN",
+        "result": "Compatible",
+        "generated_reason": "The combination of ferric nitrate and hydrogen does not lead to any known chemical reactions or hazardous outcomes based on their respective chemical properties and reactivity. Therefore, they are considered to be compatible when mixed together.",
+        "predicted_results": [
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "ETHANOL",
+        "result": "Caution",
+        "generated_reason": "The combination of activated carbon and ethanol has the potential to cause a chemical reaction leading to the formation of flammable vapors or gases. The porous structure of activated carbon can adsorb ethanol, increasing the risk of fire or explosion in certain conditions.",
+        "predicted_results": [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "WATER",
+        "result": "Compatible",
+        "generated_reason": "The surface area of activated carbon allows for the adsorption of various substances, while water provides a medium for the transport of these substances. The compatibility arises from the ability of activated carbon to effectively remove impurities from water without undergoing significant chemical reactions or producing harmful by-products.",
+        "predicted_results": [
+            10,
+            10,
+            10
+        ]
+    }
+]

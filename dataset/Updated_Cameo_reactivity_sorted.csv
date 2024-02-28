@@ -1,0 +1,92 @@
+substance1,substance2,result,reason
+"CARBON, ACTIVATED",FERRIC SULFATE,Compatible, 
+ALUMINUM ALKYL HYDRIDES,FERRIC NITRATE,Incompatible," Generates heat,Intense or explosive reaction"
+"CARBON, ACTIVATED",METHANE,Compatible, 
+"AIR, COMPRESSED",WATER,Compatible, 
+ALUMINUM ALKYL HYDRIDES,WATER,Incompatible," Corrosive,Flammable,Generates gas,Generates heat,Intense or explosive reaction,Toxic"
+FERRIC SULFATE,"IRON OXIDE, SPENT",Incompatible," Flammable,Generates gas,Generates heat,Toxic"
+FERRIC NITRATE,"IRON, [POWDERED]",Incompatible," Generates heat,Intense or explosive reaction"
+ETHANOL,PROPIONALDEHYDE,Caution," Generates heat,Intense or explosive reaction,Potentially hazardous"
+"CARBON, ACTIVATED",FERRIC CHLORIDE,Compatible, 
+"IRON OXIDE, SPENT",WATER,Incompatible," Corrosive,Flammable,Generates gas,Generates heat,Toxic"
+PROPIONALDEHYDE,SULFUROUS ACID,Incompatible," Generates gas,Generates heat,Intense or explosive reaction,Polymerization hazard,Potentially hazardous,Unstable when heated"
+ALUMINUM ALKYL HYDRIDES,ETHANOL,Incompatible," Flammable,Generates gas,Generates heat,Intense or explosive reaction"
+"CARBON, ACTIVATED","IRON, [POWDERED]",Incompatible," Flammable,Generates heat,Intense or explosive reaction,Unstable when heated"
+ALUMINUM ALKYL HYDRIDES,"IRON OXIDE, SPENT",Incompatible," Corrosive,Flammable,Generates gas,Generates heat,Intense or explosive reaction,Toxic"
+METHANE,SULFUROUS ACID,Compatible, 
+ETHANOL,HYDROGEN,Caution," Flammable,Generates gas,Potentially hazardous"
+FERRIC NITRATE,WATER,Compatible, 
+"CARBON, ACTIVATED",SULFUROUS ACID,Compatible, 
+"AIR, COMPRESSED",ETHANOL,Caution, Potentially hazardous
+"IRON OXIDE, SPENT","IRON, [POWDERED]",Incompatible," Flammable,Generates gas,Generates heat,Intense or explosive reaction,Toxic"
+"AIR, COMPRESSED",HYDROGEN,Caution," Generates heat,Intense or explosive reaction,Unstable when heated"
+FERRIC CHLORIDE,PROPIONALDEHYDE,Incompatible," Generates heat,Intense or explosive reaction,Polymerization hazard"
+HYDROGEN,WATER,Compatible, 
+FERRIC SULFATE,SULFUROUS ACID,Caution, Generates heat
+FERRIC SULFATE,HYDROGEN,Compatible, 
+"IRON, [POWDERED]",METHANE,Compatible, 
+ETHANOL,"IRON, [POWDERED]",Incompatible," Corrosive,Explosive,Flammable,Generates gas,Generates heat,Intense or explosive reaction,Toxic"
+"AIR, COMPRESSED",PROPIONALDEHYDE,Incompatible," Generates heat,Polymerization hazard,Potentially hazardous"
+FERRIC CHLORIDE,FERRIC NITRATE,Incompatible," Corrosive,Generates gas,Toxic,Unstable when heated"
+HYDROGEN,PROPIONALDEHYDE,Incompatible," Generates gas,Generates heat,Intense or explosive reaction,Polymerization hazard,Potentially hazardous,Unstable when heated"
+FERRIC SULFATE,METHANE,Compatible, 
+METHANE,PROPIONALDEHYDE,Caution, Potentially hazardous
+ALUMINUM ALKYL HYDRIDES,"CARBON, ACTIVATED",Incompatible," Flammable,Generates gas,Generates heat,Intense or explosive reaction,Unstable when heated"
+ETHANOL,WATER,Compatible, 
+HYDROGEN,METHANE,Compatible, 
+FERRIC SULFATE,PROPIONALDEHYDE,Incompatible," Generates heat,Intense or explosive reaction,Polymerization hazard,Potentially hazardous"
+FERRIC NITRATE,SULFUROUS ACID,Incompatible," Corrosive,Generates gas,Toxic,Unstable when heated"
+ALUMINUM ALKYL HYDRIDES,PROPIONALDEHYDE,Incompatible," Flammable,Generates heat,Intense or explosive reaction,Polymerization hazard"
+METHANE,WATER,Compatible, 
+"IRON OXIDE, SPENT",METHANE,Compatible, 
+"AIR, COMPRESSED",ALUMINUM ALKYL HYDRIDES,Incompatible," Generates heat,Intense or explosive reaction"
+FERRIC CHLORIDE,FERRIC SULFATE,Caution, Generates heat
+"CARBON, ACTIVATED","IRON OXIDE, SPENT",Compatible, 
+"AIR, COMPRESSED","IRON OXIDE, SPENT",Incompatible," Generates gas,Generates heat"
+FERRIC CHLORIDE,"IRON, [POWDERED]",Incompatible," Flammable,Generates gas,Generates heat,Intense or explosive reaction"
+"AIR, COMPRESSED","IRON, [POWDERED]",Incompatible," Generates gas,Generates heat,Intense or explosive reaction"
+"AIR, COMPRESSED",SULFUROUS ACID,Caution," Generates heat,Intense or explosive reaction,Potentially hazardous,Unstable when heated"
+FERRIC CHLORIDE,SULFUROUS ACID,Compatible, 
+"AIR, COMPRESSED",METHANE,Compatible, 
+"AIR, COMPRESSED",FERRIC CHLORIDE,Caution, Potentially hazardous
+ALUMINUM ALKYL HYDRIDES,SULFUROUS ACID,Incompatible," Flammable,Generates gas,Generates heat,Intense or explosive reaction,Unstable when heated"
+SULFUROUS ACID,WATER,Caution," Corrosive,Generates gas,Generates heat"
+HYDROGEN,SULFUROUS ACID,Compatible, 
+ETHANOL,METHANE,Compatible, 
+ETHANOL,FERRIC CHLORIDE,Caution, Generates heat
+"IRON, [POWDERED]",WATER,Incompatible," Flammable,Generates gas,Generates heat,Toxic"
+FERRIC SULFATE,"IRON, [POWDERED]",Incompatible," Flammable,Generates gas,Generates heat,Intense or explosive reaction,Toxic"
+FERRIC NITRATE,METHANE,Caution, Potentially hazardous
+ALUMINUM ALKYL HYDRIDES,FERRIC CHLORIDE,Incompatible," Flammable,Generates gas,Generates heat,Intense or explosive reaction"
+"AIR, COMPRESSED",FERRIC NITRATE,Caution, Potentially hazardous
+"IRON, [POWDERED]",SULFUROUS ACID,Incompatible," Flammable,Generates gas,Generates heat,Intense or explosive reaction,Unstable when heated"
+"AIR, COMPRESSED","CARBON, ACTIVATED",Caution," Generates heat,Intense or explosive reaction,Unstable when heated"
+ALUMINUM ALKYL HYDRIDES,METHANE,Compatible, 
+HYDROGEN,"IRON, [POWDERED]",Incompatible," Flammable,Generates heat,Intense or explosive reaction,Unstable when heated"
+ETHANOL,SULFUROUS ACID,Caution," Flammable,Generates gas,Generates heat,Potentially hazardous"
+FERRIC NITRATE,PROPIONALDEHYDE,Incompatible," Explosive,Generates heat,Polymerization hazard"
+PROPIONALDEHYDE,WATER,Caution, Polymerization hazard
+"IRON OXIDE, SPENT",SULFUROUS ACID,Incompatible," Flammable,Generates gas,Generates heat,Intense or explosive reaction,Toxic"
+ETHANOL,"IRON OXIDE, SPENT",Caution, Generates heat
+FERRIC SULFATE,WATER,Caution," Corrosive,Generates gas,Generates heat"
+"IRON OXIDE, SPENT",PROPIONALDEHYDE,Incompatible," Generates heat,Intense or explosive reaction,Polymerization hazard,Potentially hazardous"
+FERRIC NITRATE,FERRIC SULFATE,Incompatible," Corrosive,Generates gas,Toxic,Unstable when heated"
+ETHANOL,FERRIC SULFATE,Compatible, 
+FERRIC CHLORIDE,HYDROGEN,Compatible, 
+"IRON, [POWDERED]",PROPIONALDEHYDE,Incompatible," Flammable,Generates heat,Intense or explosive reaction,Polymerization hazard"
+ALUMINUM ALKYL HYDRIDES,FERRIC SULFATE,Incompatible," Corrosive,Flammable,Generates gas,Generates heat,Intense or explosive reaction"
+FERRIC CHLORIDE,"IRON OXIDE, SPENT",Incompatible," Flammable,Generates gas,Generates heat,Intense or explosive reaction,Toxic"
+FERRIC CHLORIDE,METHANE,Compatible, 
+HYDROGEN,"IRON OXIDE, SPENT",Compatible, 
+"CARBON, ACTIVATED",FERRIC NITRATE,Compatible, 
+ALUMINUM ALKYL HYDRIDES,"IRON, [POWDERED]",Incompatible," Flammable,Generates gas,Generates heat,Intense or explosive reaction"
+"CARBON, ACTIVATED",HYDROGEN,Compatible, 
+ETHANOL,FERRIC NITRATE,Incompatible," Explosive,Generates heat,Intense or explosive reaction"
+ALUMINUM ALKYL HYDRIDES,HYDROGEN,Incompatible," Flammable,Generates gas,Generates heat,Intense or explosive reaction,Unstable when heated"
+FERRIC NITRATE,"IRON OXIDE, SPENT",Incompatible," Explosive,Generates heat,Intense or explosive reaction"
+"AIR, COMPRESSED",FERRIC SULFATE,Compatible, 
+"CARBON, ACTIVATED",PROPIONALDEHYDE,Incompatible," Generates gas,Generates heat,Intense or explosive reaction,Polymerization hazard,Potentially hazardous,Unstable when heated"
+FERRIC CHLORIDE,WATER,Caution," Corrosive,Generates gas,Generates heat"
+FERRIC NITRATE,HYDROGEN,Compatible, 
+"CARBON, ACTIVATED",ETHANOL,Caution," Flammable,Generates gas,Potentially hazardous"
+"CARBON, ACTIVATED",WATER,Compatible, 

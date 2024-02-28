@@ -1,0 +1,997 @@
+[
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "FERRIC SULFATE",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "FERRIC NITRATE",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "WATER",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Caution",
+            "Caution",
+            "Caution"
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "WATER",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC SULFATE",
+        "substance2": "IRON OXIDE, SPENT",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Caution",
+            "Compatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC NITRATE",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Caution",
+            "Caution",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "FERRIC CHLORIDE",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "IRON OXIDE, SPENT",
+        "substance2": "WATER",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Caution"
+        ]
+    },
+    {
+        "substance1": "PROPIONALDEHYDE",
+        "substance2": "SULFUROUS ACID",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "ETHANOL",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "IRON OXIDE, SPENT",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "METHANE",
+        "substance2": "SULFUROUS ACID",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "HYDROGEN",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC NITRATE",
+        "substance2": "WATER",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "SULFUROUS ACID",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "ETHANOL",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Caution",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "IRON OXIDE, SPENT",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "HYDROGEN",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Caution",
+            "Caution"
+        ]
+    },
+    {
+        "substance1": "HYDROGEN",
+        "substance2": "WATER",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC SULFATE",
+        "substance2": "SULFUROUS ACID",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC SULFATE",
+        "substance2": "HYDROGEN",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "IRON, [POWDERED]",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Caution",
+            "Caution",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Caution",
+            "Caution",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "FERRIC NITRATE",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "HYDROGEN",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Caution",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC SULFATE",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "METHANE",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Caution",
+            "Incompatible",
+            "Caution"
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "CARBON, ACTIVATED",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "WATER",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "HYDROGEN",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC SULFATE",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC NITRATE",
+        "substance2": "SULFUROUS ACID",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Caution",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "METHANE",
+        "substance2": "WATER",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "IRON OXIDE, SPENT",
+        "substance2": "METHANE",
+        "result": "Compatible"
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "ALUMINUM ALKYL HYDRIDES",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "FERRIC SULFATE",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Caution",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "IRON OXIDE, SPENT",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "IRON OXIDE, SPENT",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Caution",
+            "Caution",
+            "Caution"
+        ]
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Caution",
+            "Incompatible",
+            "Caution"
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "SULFUROUS ACID",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "SULFUROUS ACID",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Caution",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "FERRIC CHLORIDE",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "SULFUROUS ACID",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "SULFUROUS ACID",
+        "substance2": "WATER",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "HYDROGEN",
+        "substance2": "SULFUROUS ACID",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "FERRIC CHLORIDE",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Caution",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "IRON, [POWDERED]",
+        "substance2": "WATER",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC SULFATE",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC NITRATE",
+        "substance2": "METHANE",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "FERRIC CHLORIDE",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "FERRIC NITRATE",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "IRON, [POWDERED]",
+        "substance2": "SULFUROUS ACID",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Caution"
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "CARBON, ACTIVATED",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "HYDROGEN",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Caution"
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "SULFUROUS ACID",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC NITRATE",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "PROPIONALDEHYDE",
+        "substance2": "WATER",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "IRON OXIDE, SPENT",
+        "substance2": "SULFUROUS ACID",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "IRON OXIDE, SPENT",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Caution"
+        ]
+    },
+    {
+        "substance1": "FERRIC SULFATE",
+        "substance2": "WATER",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "IRON OXIDE, SPENT",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC NITRATE",
+        "substance2": "FERRIC SULFATE",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "FERRIC SULFATE",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "HYDROGEN",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "IRON, [POWDERED]",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Caution",
+            "Caution",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "FERRIC SULFATE",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "IRON OXIDE, SPENT",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "METHANE",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "HYDROGEN",
+        "substance2": "IRON OXIDE, SPENT",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Compatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "FERRIC NITRATE",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "IRON, [POWDERED]",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "HYDROGEN",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "ETHANOL",
+        "substance2": "FERRIC NITRATE",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "ALUMINUM ALKYL HYDRIDES",
+        "substance2": "HYDROGEN",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC NITRATE",
+        "substance2": "IRON OXIDE, SPENT",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "AIR, COMPRESSED",
+        "substance2": "FERRIC SULFATE",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "PROPIONALDEHYDE",
+        "result": "Incompatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Caution",
+            "Caution",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC CHLORIDE",
+        "substance2": "WATER",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "FERRIC NITRATE",
+        "substance2": "HYDROGEN",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Incompatible",
+            "Incompatible",
+            "Incompatible"
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "ETHANOL",
+        "result": "Caution",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    },
+    {
+        "substance1": "CARBON, ACTIVATED",
+        "substance2": "WATER",
+        "result": "Compatible",
+        "generated_reason": "",
+        "predicted_results": [
+            "Compatible",
+            "Compatible",
+            "Compatible"
+        ]
+    }
+]
